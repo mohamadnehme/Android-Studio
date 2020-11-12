@@ -1,0 +1,8 @@
+<root>
+    <item name='java.io.File.PathStatus'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item name='java.io.File.PathStatus INVALID'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>

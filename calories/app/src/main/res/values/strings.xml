@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calories</string>
+    <string-array name="s">
+        <item>Below 24</item>
+        <item>Above 24</item>
+    </string-array>
+    <color name="blue">#0099ff</color>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tp8</string>
+    <drawable name="green">#00ff00</drawable>
+    <drawable name="red">#ff0000</drawable>
+    <drawable name="d">#ffffff</drawable>
+</resources>

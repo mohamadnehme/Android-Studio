@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="data">data</string>
+    <string-array name="array">
+        <item>welcome</item>
+        <item>to</item>
+        <item>android</item>
+    </string-array>
+    <drawable name="red">#FF0000</drawable>
+    <drawable name="blue">#00FF00</drawable>
+</resources>

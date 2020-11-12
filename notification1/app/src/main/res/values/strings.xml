@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">notification1</string>
+    <string name="news">
+        Detection of hidden explosive devices is a key priority for security and defence personnel around the globe. Electronic noses, based on metal oxide semiconductors (MOS), are a promising technology for creating inexpensive, portable and sensitive devices for such a purpose. An array of seven MOS gas sensors was fabricated by screen printing, based on WO3 and In2O3 inks. The sensors were tested against six gases, including four explosive markers: nitromethane, DMNB (2,3-dimetheyl-2,3-dinitrobutane), 2-ethylhexanol and ammonia. The gases were successfully detected with good sensitivity and selectivity from the array. Sensitivity was improved by overlaying or admixing the oxides with two zeolites, H-ZSM-5 and TS-1, and each showed improved responses to –NO2 and –OH moieties respectively. Admixtures in particular showed promise, with excellent sensitivity and good stability to humidity. Machine learning techniques were applied to a subset of the data and could accurately classify the gases detected, even when confounding factors were introduced.
+    </string>
+    <string name="channel_name">test</string>
+    <string name="channel_description">Test</string>
+</resources>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/simpleTableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"> <!-- stretch the second column of the layout-->
+
+    <!-- first row of the table layout-->
+    <TableRow
+
+        android:id="@+id/firstRow"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Are you feeling ok?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView1"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Have you been in a country where covid-19 is prevelant ?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes1"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no1"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow2"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView2"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Are you now in a country where corona virus is spreading?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes2"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no2"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow3"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView3"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Have you had a contact with someone who has corona virus in the last 15 d?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes3"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no3"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow4"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView4"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Do you suffer from fever?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes4"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no4"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow5"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView5"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Do you cough?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes5"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no5"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow6"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView6"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Do you sneeze?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes6"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no6"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <TableRow
+
+        android:id="@+id/firstRow7"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp">
+
+        <!-- first element of the row-->
+
+        <TextView
+
+            android:id="@+id/simpleTextView7"
+            android:layout_width="304dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="#b0b0b0"
+            android:gravity="center_vertical"
+            android:text="Do you feel a difficulty in respiration?"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/yes7"
+            android:layout_width="59dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="yes"
+            android:textColor="#000" />
+
+        <Button
+            android:id="@+id/no7"
+            android:layout_width="61dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:text="no"
+            android:textColor="#000" />
+
+    </TableRow>
+
+    <Button
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="#FFFFFF"
+        android:text="result"
+        android:textColor="#000" />
+</TableLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+            <item
+                android:id="@+id/all"
+                android:title="All" />
+            <item
+                android:id="@+id/ind"
+                android:title="Indication" />
+            <item
+                android:id="@+id/ob"
+                android:title="Obligation" />
+            <item
+                android:id="@+id/inte"
+                android:title="Interdit" />
+            <item
+                android:id="@+id/att"
+                android:title="Attention" />
+</menu>

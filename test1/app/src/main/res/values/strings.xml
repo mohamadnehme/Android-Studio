@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="a">Getdata</string>
+    <string name="b">Senddata</string>
+</resources>

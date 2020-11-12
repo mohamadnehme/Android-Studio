@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">tp7</string>
+    <string name="p">Pizza order application</string>
+    <string name="s1">Size</string>
+    <string name="s">Small</string>
+    <string name="m">Medium</string>
+    <string name="l">Large</string>
+    <string name="pe">Pepperoni</string>
+    <string name="sa">Sausage</string>
+    <string name="o">Olives</string>
+    <string name="mu">Mushrooms</string>
+    <string name="com">Compute price</string>
+    <string name="pr">Price Item = 0 LBP</string>
+    <string name="add">Add Item To Card</string>
+    <string name="h">Pay Bill</string>
+</resources>

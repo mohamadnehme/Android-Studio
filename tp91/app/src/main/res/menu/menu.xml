@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Choices" >
+        <menu >
+            <item
+                android:id="@+id/nine"
+                android:title="9" />
+            <item
+                android:id="@+id/six"
+                android:title="6" />
+            <item
+                android:id="@+id/three"
+                android:title="3" />
+        </menu>
+    </item>
+    <item android:title="Country" >
+        <menu >
+            <item
+                android:id="@+id/all"
+                android:title="All" />
+            <item
+                android:id="@+id/oc"
+                android:title="Oceania" />
+            <item
+                android:id="@+id/sa"
+                android:title="South_America" />
+            <item
+                android:id="@+id/na"
+                android:title="North_America" />
+            <item
+                android:id="@+id/eu"
+                android:title="Europe" />
+            <item
+                android:id="@+id/af"
+                android:title="Africa" />
+            <item
+                android:id="@+id/asia"
+                android:title="Asia" />
+        </menu>
+    </item>
+</menu>

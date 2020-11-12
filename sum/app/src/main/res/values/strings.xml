@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sum</string>
+    <string name="t">Enter your triple name</string>
+    <string name="n">next</string>
+    <string name="age">age:</string>
+    <string name="j">job:</string>
+    <string name="prev">prev</string>
+</resources>

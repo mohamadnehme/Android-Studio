@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tp9"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:5:5-31:19
+12        android:allowBackup="true"
+12-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Echo data\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/logo"
+15-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:7:9-36
+16        android:label="Les signalisations"
+16-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:8:9-43
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="com.example.tp9.list" />
+21-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:12:9-51
+21-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:12:19-39
+22        <activity
+22-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:13:9-15:59
+23            android:name="com.example.tp9.MoreInformations"
+23-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:14:13-45
+24            android:parentActivityName="com.example.tp9.Main2Activity" />
+24-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:15:13-56
+25        <activity android:name="com.example.tp9.Register" />
+25-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:16:9-46
+25-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:16:19-43
+26        <activity
+26-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:17:9-19:50
+27            android:name="com.example.tp9.Login"
+27-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:18:13-34
+28            android:parentActivityName="com.example.tp9.Main" />
+28-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:19:13-47
+29        <activity android:name="com.example.tp9.MainActivity" />
+29-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:20:9-50
+29-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:20:19-47
+30        <activity
+30-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:21:9-23:50
+31            android:name="com.example.tp9.Main2Activity"
+31-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:22:13-42
+32            android:parentActivityName="com.example.tp9.Main" />
+32-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:23:13-47
+33        <activity android:name="com.example.tp9.Main" >
+33-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:24:9-30:20
+33-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:24:19-39
+34            <intent-filter>
+34-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:26:17-69
+35-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:28:17-77
+37-->D:\android projects\arzoune\app\src\main\AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

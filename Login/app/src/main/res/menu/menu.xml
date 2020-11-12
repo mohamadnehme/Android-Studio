@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/prof"
+        android:title="Profile" />
+    <item
+        android:id="@+id/bac"
+        android:title="Brief about Corona" />
+    <item
+        android:id="@+id/qu"
+        android:title="Go and check" />
+    <item
+        android:id="@+id/sp"
+        android:title="Contact a Patient" />
+    <item
+        android:id="@+id/f"
+        android:title="Most infected places" />
+    <item android:title="Safety tips" />
+    <item android:title="consulte a prof" />
+    <item android:title="ask for a nurse" />
+    <item
+        android:id="@+id/pr"
+        android:title="Not okay" />
+    <item android:title="Settings" />
+</menu>
